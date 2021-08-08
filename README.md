@@ -1,7 +1,7 @@
 # Food Diary
 
 ## Application description
-Food Diary is a simple application to make a meal. Your job is make a meal (name, recipe, cuisine), after that you can add products to meal (is neccesery to state the quantity of macronutrents and weight), after that you can see full details of your meal include macronutrents and calories of meal.
+Food Diary is a simple application to make a meal. Your job is make a meal (name, recipe, cuisine), after that you can add products to meal (is neccesery to state the quantity of macronutrents and weight), after that you can see full details of your meal include macronutrients and calories of meal.
 Application could be very helpfull especially to people who counting callories to be fit and healthly.
 
 ## Used technologies
